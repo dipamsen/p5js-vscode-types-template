@@ -6,10 +6,10 @@ This template adds p5.js intellisense to get autocompletion and documentation in
 
 ## How to use
 
-1. Clone this repository
+1. Download this repository
 
 ```bash
-git clone https://github.com/dipamsen/p5js-vscode-types-template.git
+npx degit dipamsen/p5js-vscode-types-template
 ```
 
 2. Install the dependencies (Installs p5.js typings)
