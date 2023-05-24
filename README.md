@@ -9,12 +9,13 @@ This template adds p5.js intellisense to get autocompletion and documentation in
 1. Download this repository
 
 ```bash
-npx degit dipamsen/p5js-vscode-types-template
+npx degit dipamsen/p5js-vscode-types-template project_name
 ```
 
 2. Install the dependencies (Installs p5.js typings)
 
 ```bash
+cd project_name
 npm install
 ```
 
@@ -28,8 +29,14 @@ code .
 
 Now, any javascript file with the following `reference` directive at the top of the file will have p5.js intellisense.
 
+Global Mode:
 ```javascript
-/// <reference path="./node_modules/@types/p5/global.d.ts" />
+/// <reference types="p5/global" />
+```
+
+Instance Mode:
+```javascript
+/// <reference types="p5" />
 ```
 
 ## Credits
