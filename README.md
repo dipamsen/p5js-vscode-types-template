@@ -1,4 +1,4 @@
-# p5.js + VSCode Starter Template (Global Mode)
+# p5.js + VSCode Starter Template (JavaScript)
 
 This template adds p5.js intellisense to get autocompletion and documentation in your p5.js sketches in VSCode.
 
