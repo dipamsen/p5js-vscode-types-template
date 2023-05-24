@@ -2,7 +2,8 @@
 
 This template adds p5.js intellisense to get autocompletion and documentation in your p5.js sketches in VSCode.
 
-![image](https://user-images.githubusercontent.com/59444569/239292714-01987bbd-2f05-44d1-9259-a958c0265163.png)
+<!-- ![image](https://user-images.githubusercontent.com/59444569/239292714-01987bbd-2f05-44d1-9259-a958c0265163.png) -->
+![image](https://user-images.githubusercontent.com/59444569/240663218-7299bcdc-038f-42c2-904f-e82b9700f86f.png)
 
 ## How to use
 
